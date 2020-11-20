@@ -1,37 +1,15 @@
-## Brookyln
+New York City is a hotspot for travel. Brooklyn is one of the more popular boroughs to visit. We can learn more about people traveling to Brooklyn by looking into the listings of Airbnbs in Brookyln. We analyzed the data of Airbnb listings in. NYC for 2019 to draw conclusions about Brooklyn and the guests who travel to this great borough.  
 
-New York City is a hotspot for travel. Brooklyn is one of the more popular boroughs to visit. We can learn more about people traveling to Brooklyn by looking into the listings of Airbnbs in Brookyln. We analyzed the data of Airbnb listings in. NYC for 2019 to draw conclusions about Brooklyn and the guests who travel to this great borough.
+As a group we learned about Brooklyn but individually we focused on our own neighborhoods. Jean Zion worked on Williamsburg and Fionna Du worked on Flatbush, two popular parts of the borough.  
+### Overview of Brooklyn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### HC2
+#### HC3
+#### HC8
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Neighborhood Links
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Flatbush](https://fionnadu.github.io/Flatbush/)
+[Williamsburg](https://jmzion.github.io/HC10/)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jmzion/Brooklyn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
