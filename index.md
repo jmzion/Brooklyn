@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Brookyln
 
-You can use the [editor on GitHub](https://github.com/jmzion/Brooklyn/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+New York City is a hotspot for travel. Brooklyn is one of the more popular boroughs to visit. We can learn more about people traveling to Brooklyn by looking into the listings of Airbnbs in Brookyln. We analyzed the data of Airbnb listings in. NYC for 2019 to draw conclusions about Brooklyn and the guests who travel to this great borough.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
