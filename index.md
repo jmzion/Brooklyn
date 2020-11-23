@@ -12,6 +12,7 @@ For this assingment, we looked through the websites Street Advisor, Brick, DNAIn
 
 ### Neighborhood Links
 
-[Flatbush](https://fionnadu.github.io/Flatbush/)
+[Flatbush](https://fionnadu.github.io/Flatbush/)  
+
 [Williamsburg](https://jmzion.github.io/HC10/)
 
