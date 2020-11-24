@@ -7,8 +7,9 @@ New York City is a hotspot for travel. Brooklyn is one of the more popular borou
 We focused on Brooklyn as a group, and individually focused on our own neighborhoods. Jean Zion worked on Williamsburg and Fionna Du worked on Flatbush, two popular parts of the borough.  
 
 ### Overview of Brooklyn
-Using Availability is a measure, Brooklyn is the most popular borough for Airbnb rentals. It is also the second-most expensive, though considerably more affordable than Manhattan.
-![alt text](Borough Average Availability.png "Logo Title Text 1")  
+Using Availability is a measure, Brooklyn is the most popular borough for Airbnb rentals. It is also the second-most expensive, though considerably more affordable than Manhattan.  
+
+![alt text](Borough Average Availability.png "Logo Title Text 1")    
 ![alt text](Boroughs Average Prices.png "Logo Title Text 1")  
 
 
