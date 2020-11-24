@@ -9,8 +9,8 @@ We focused on Brooklyn as a group, and individually focused on our own neighborh
 ### Overview of Brooklyn
 Using Availability is a measure, Brooklyn is the most popular borough for Airbnb rentals. It is also the second-most expensive, though considerably more affordable than Manhattan.  
 
-![alt text](Borough Average Availability.png "Logo Title Text 1")    
-![alt text](Borough Average Prices.png "Logo Title Text 1")  
+![alt text](BoroughAverageAvailability.png "Logo Title Text 1")    
+![alt text](BoroughAveragePrices.png "Logo Title Text 1")  
 
 
 ### Flatbush vs. Williamsburg
