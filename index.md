@@ -20,7 +20,7 @@ Regarding transportation, both boroughs have an "A" ranking on Niche for commute
 Regarding recreation, both neighborhoods have an "A" in Outdoor Activities on Niche, but Williamsburg has an "A+" in nightlife, whereas Flatbush has an "A".  
 
 Williamsburg also has more attractions than Flatbush, which makes it more appealing. 
-Overall, Williamsburg ranks higher than Flatbush as a place to stay at an Airbnb, which is corrobated by our data analysis.  
+Overall, Williamsburg ranks higher than Flatbush as a place to stay at an Airbnb, which is corroborated by our data analysis.  
 
 Flatbush is more affordable than Wiliamsburg, but Williamsburg has much less availability. This indicates that it is popular despite the higher prices.  
 
