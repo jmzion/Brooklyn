@@ -30,7 +30,7 @@ Flatbush is more affordable than Wiliamsburg, but Williamsburg has much less ava
 
 ### Neighborhood Links
 
-[Flatbush](https://fionnadu.github.io/Flatbush/)  
+#### [Flatbush](https://fionnadu.github.io/Flatbush/)  
 
-[Williamsburg](https://jmzion.github.io/HC10/)
+#### [Williamsburg](https://jmzion.github.io/HC10/)
 
